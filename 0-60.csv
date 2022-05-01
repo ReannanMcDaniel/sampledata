@@ -1,4 +1,4 @@
-Entry,Customer Placed Order Time(min),Placed Order with Restaurant Time(min),Time(min) Delta,Driver at Restaurant Time(min),Time(min) Delta,Time(min) Delta,Delivered to Customer Time(min),Time(min) Delta,Time(min) Delta,Time(min) Delta,Driver ID,Restaurant ID,Consumer ID,Delivery Region,Is ASAP,Order total,Amount of discount,Amount of tip,Refunded amount
+Entry,Customer Placed Order Time(min),Placed Order with Restaurant Time(min),OPtoORTime(min)Delta,Driver at Restaurant Time(min),DRfmOPTime(min) Delta,DRfmORTime(min) Delta,Delivered to Customer Time(min),OCfmOPTime(min) Delta,OCfmORTime(min) Delta,OCfmDRTime(min) Delta,Driver ID,Restaurant ID,Consumer ID,Delivery Region,Is ASAP,Order total,Amount of discount,Amount of tip,Refunded amount
 2,155,158,3,168,13,10,194,39,36,26,7,84,144,Palo Alto,TRUE,43.3,0,5.14,0
 5,1172,1192,21,1198,27,6,1215,44,23,17,7,114,6732,Mountain View,TRUE,17.42,0,1.05,0
 7,58,67,8,86,28,19,108,50,41,22,7,124,555,Mountain View,TRUE,25.03,0,3,0
